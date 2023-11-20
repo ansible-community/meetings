@@ -21,37 +21,33 @@ You can find the room links in the list of [official working groups](https://doc
 
 ### Mondays
 
-* [15:00 UTC](http://www.thetimezoneconverter.com/?t=15:00&tz=UTC):
-  **[Security Automation Working Group](https://github.com/ansible/community/wiki/Security-Automation)**
-  ([ical](https://raw.githubusercontent.com/ansible/community/main/meetings/ical/security.ics))
-  in `#ansible-security` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#security-automation:ansible.com](https://matrix.to/#/#security-automation:ansible.com>) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 * [16:00 UTC](http://www.thetimezoneconverter.com/?t=16:00&tz=UTC):
   **[VMware Working Group](https://github.com/ansible/community/wiki/vmware)**
-  ([ical](https://raw.githubusercontent.com/ansible/community/main/meetings/ical/vmware.ics))
+  ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/vmware.ics))
   in `#ansible-vmware` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#vmware:ansible.com](https://matrix.to/#/#vmware:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
 ### Tuesdays
 
 * [13:00 UTC](http://www.thetimezoneconverter.com/?t=13:00&tz=UTC):
   **[Azure Working Group](https://github.com/ansible/community/wiki/azure)**
-  ([ical](https://raw.githubusercontent.com/ansible/community/main/meetings/ical/azure.ics))
+  ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/azure.ics))
   in `#ansible-azure` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#azure:ansible.com)](https://matrix.to/#/#azure:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
 * [16:00 UTC](http://www.thetimezoneconverter.com/?t=16:00&tz=UTC):
   **[Documentation Working Group](https://github.com/ansible/community/wiki/docs)**
-  ([ical](https://raw.githubusercontent.com/ansible/community/main/meetings/ical/docs.ics))
+  ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/docs.ics))
   in `#ansible-docs` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#docs:ansible.com](https://matrix.to/#/#docs:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
 * [20:00 UTC](http://www.thetimezoneconverter.com/?t=20:00&tz=UTC):
   **[Windows Working Group](https://github.com/ansible/community/wiki/windows)**
-  ([ical](https://raw.githubusercontent.com/ansible/community/main/meetings/ical/windows.ics))
+  ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/windows.ics))
   in `#ansible-windows` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#windows:ansible.com](https://matrix.to/#/#windows:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
 ### Wednesdays
 
 * [19:00 UTC](http://www.thetimezoneconverter.com/?t=19:00&tz=UTC):
   **[Community Working Group](https://github.com/ansible/community/issues/539)**
-  ([ical](https://raw.githubusercontent.com/ansible/community/main/meetings/ical/community.ics))
+  ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/community.ics))
   in `#ansible-community` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#community:ansible.com](https://matrix.to/#/#community:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
 ### Thursdays
