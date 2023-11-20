@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:Network working group
+DTSTART:20230511T130000Z
+DURATION:PT1H
+DTSTAMP:20230428T111440Z
+UID:networkworkinggroup-20230511
+RRULE:FREQ=WEEKLY;INTERVAL=2
+DESCRIPTION:Project:  Network working group\nChair:  Kate Case (Qalthos)\n
+ Description:  \nDiscuss everything network.\n\nAgenda URL:  https://github
+ .com/ansible/community/labels/network\nProject URL:  https://github.com/an
+ sible/community/wiki/Network
+LOCATION:#ansible-network or https://matrix.to/#/#network:ansible.com
+END:VEVENT
+END:VCALENDAR
