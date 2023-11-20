@@ -12,7 +12,7 @@ Ansible Working group meetings are held in [Matrix](https://docs.ansible.com/ans
 
 ## Schedule
 
-You can add this full list of meetings to your personal calendar by importing [ansible_community_meetings.ics](https://raw.githubusercontent.com/ansible-community/meetings/ansible_community_meetings.ics).
+You can add this full list of meetings to your personal calendar by importing [ansible_community_meetings.ics](https://raw.githubusercontent.com/ansible-community/meetings/main/ansible_community_meetings.ics).
 
 > Some calendars, such as Google Calendar, support importing by URL.
 > This allows the calendar to update automatically when changes are made.
