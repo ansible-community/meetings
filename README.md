@@ -5,7 +5,7 @@
 
 A GitHub repository for the shared Ansible community Working group meeting calendar
 
-This repository replaces the meeting logic in https://github.com/ansible/community/tree/main/meetings
+**This repository replaces the meeting logic in https://github.com/ansible/community/tree/main/meetings**
 
 
 Ansible Working group meetings are held in [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix) rooms.
