@@ -19,29 +19,14 @@ You can add this full list of meetings to your personal calendar by importing [a
 
 You can find the room links in the list of [official working groups](https://docs.ansible.com/ansible/devel/community/communication.html#working-groups).
 
-### Mondays
-
-* [16:00 UTC](http://www.thetimezoneconverter.com/?t=16:00&tz=UTC):
-  **[VMware Working Group](https://github.com/ansible/community/wiki/vmware)**
-  ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/vmware.ics))
-  in `#ansible-vmware` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#vmware:ansible.com](https://matrix.to/#/#vmware:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
 ### Tuesdays
-
-* [13:00 UTC](http://www.thetimezoneconverter.com/?t=13:00&tz=UTC):
-  **[Azure Working Group](https://github.com/ansible/community/wiki/azure)**
-  ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/azure.ics))
-  in `#ansible-azure` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#azure:ansible.com)](https://matrix.to/#/#azure:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
 * [16:00 UTC](http://www.thetimezoneconverter.com/?t=16:00&tz=UTC):
   **[Documentation Working Group](https://github.com/ansible/community/wiki/docs)**
   ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/docs.ics))
   in `#ansible-docs` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#docs:ansible.com](https://matrix.to/#/#docs:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
-* [20:00 UTC](http://www.thetimezoneconverter.com/?t=20:00&tz=UTC):
-  **[Windows Working Group](https://github.com/ansible/community/wiki/windows)**
-  ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/windows.ics))
-  in `#ansible-windows` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#windows:ansible.com](https://matrix.to/#/#windows:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
 ### Wednesdays
 
@@ -62,14 +47,14 @@ You can find the room links in the list of [official working groups](https://doc
   ([ical](https://raw.githubusercontent.com/ansible/community/main/meetings/ical/aws.ics))
   in `#ansible-aws` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#aws:ansible.com](https://matrix.to/#/#aws:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
-## Meeting Agendas and purpose
+## Meeting agendas and purpose
 
 See the [Ansible community forum](https://forum.ansible.com/tags/c/project/7/meeting) for meeting agenda
 and the individual [Working group](https://forum.ansible.com/g) for their stated purpose.
 
 ### Core Team Meeting
 
-The Ansible Core team is no longer holding scheduled  meetings.
+The Ansible Core team is no longer holding scheduled meetings.
 
 Please feel free to engage the the Core team in `#ansible-devel` on [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) or [#devel:ansible.im](https://matrix.to/#/#devel:ansible.im) on [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
