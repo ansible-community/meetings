@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:AWS working group
 DTSTART:20220428T173000Z
 DURATION:PT1H
-DTSTAMP:20231120T125340Z
+DTSTAMP:20231120T144201Z
 UID:awsworkinggroup-20220428
 RRULE:FREQ=MONTHLY;BYDAY=4TH
 DESCRIPTION:Project:  AWS working group\nChair:  Alina Buzachis (abuzachis
@@ -19,45 +19,11 @@ DESCRIPTION:Project:  AWS working group\nChair:  Alina Buzachis (abuzachis
 LOCATION:#ansible-aws or https://matrix.to/#/#aws:ansible.im
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ansible Security Automation working group
-DTSTART:20231120T150000Z
-DURATION:PT1H
-DTSTAMP:20231120T125340Z
-UID:ansiblesecurityautomationworkinggroup-20231120
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  Ansible Security Automation working group\nChair:  A
- dam Miller (maxamillion)\, Sumit Jaiswal (justjais)\, Abhijeet Kasurde (ak
- asurde)\nDescription:  \nWe discuss everything about Information Security 
- Automation in Ansible every week on Monday.\n\nIf you have something to di
- scuss (e.g. a PR that needs help)\, add your\nrequest to the meeting agend
- a and join the IRC channel.\n\nAgenda URL:  https://github.com/ansible/com
- munity/issues?q=is:open+label:meeting_agenda+label:security\nProject URL: 
-  https://github.com/ansible/community/wiki/Security-Automation
-LOCATION:#ansible-security or https://matrix.to/#/#security-automation:ans
- ible.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Azure working group
-DTSTART:20231128T130000Z
-DURATION:PT1H
-DTSTAMP:20231120T125340Z
-UID:azureworkinggroup-20231128
-RRULE:FREQ=WEEKLY;INTERVAL=2
-DESCRIPTION:Project:  Azure working group\nChair:  Anshul Behl (anshulbehl
- )\, Jacob Jackson (thedoubl3j)\nDescription:  \nWe discuss everything rela
- ted to Azure every week on Tuesday.\n\nIf you have something to discuss (e
- .g. a PR that needs help)\, add your\nrequest to the meeting agenda and jo
- in the IRC channel.\n\nAgenda URL:  https://github.com/ansible/community/i
- ssues?q=is:open+label:meeting_agenda+label:azure\nProject URL:  https://gi
- thub.com/ansible/community/wiki/azure
-LOCATION:#ansible-azure or https://matrix.to/#/#azure:ansible.com
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Community working group
-DTSTART:20231122T190000Z
+DTSTART:20231129T190000Z
 DURATION:PT1H
-DTSTAMP:20231120T125340Z
-UID:communityworkinggroup-20231122
+DTSTAMP:20231120T144201Z
+UID:communityworkinggroup-20231129
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Community working group\nChair:  John Barker (gundal
  ow)\nDescription:  \nDiscuss everything related to Ansible Community and C
@@ -68,10 +34,10 @@ LOCATION:#ansible-community or https://matrix.to/#/#community:ansible.com
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Documentation working group
-DTSTART:20231121T160000Z
+DTSTART:20231128T160000Z
 DURATION:PT1H
-DTSTAMP:20231120T125340Z
-UID:documentationworkinggroup-20231121
+DTSTAMP:20231120T144201Z
+UID:documentationworkinggroup-20231128
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Documentation working group\nChair:  Sandra McCann (
  samccann)\nDescription:  \nDiscuss everything related to Ansible Documenta
@@ -84,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Network working group
 DTSTART:20230511T130000Z
 DURATION:PT1H
-DTSTAMP:20231120T125340Z
+DTSTAMP:20231120T144201Z
 UID:networkworkinggroup-20230511
 RRULE:FREQ=WEEKLY;INTERVAL=2
 DESCRIPTION:Project:  Network working group\nChair:  Kate Case (Qalthos)\n
@@ -92,53 +58,5 @@ DESCRIPTION:Project:  Network working group\nChair:  Kate Case (Qalthos)\n
  .com/ansible/community/labels/network\nProject URL:  https://github.com/an
  sible/community/wiki/Network
 LOCATION:#ansible-network or https://matrix.to/#/#network:ansible.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VMware working group
-DTSTART:20231120T160000Z
-DURATION:PT1H
-DTSTAMP:20231120T125340Z
-UID:vmwareworkinggroup-20231120
-RRULE:FREQ=WEEKLY
-DESCRIPTION:Project:  VMware working group\nChair:  Abhijeet Kasurde (akas
- urde)\, James Tanner (jctanner)\nDescription:  \nWe discuss everything VMw
- are every week on Monday.\n\nIf you have something to discuss (e.g. a PR t
- hat needs help)\, add your\nrequest to the meeting agenda and join the IRC
-  channel.\n\nAgenda URL:  https://github.com/ansible/community/issues?q=is
- :open+label:meeting_agenda+label:vmware\nProject URL:  https://github.com/
- ansible/community/wiki/VMware
-LOCATION:#ansible-vmware or https://matrix.to/#/#vmware:ansible.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Windows working group
-DTSTART:20231205T200000Z
-DURATION:PT1H
-DTSTAMP:20231120T125340Z
-UID:windowsworkinggroup-20231205
-RRULE:FREQ=MONTHLY;BYDAY=1TU
-DESCRIPTION:Project:  Windows working group\nChair:  Matt Davis (nitzmahon
- e)\, Jordan Borean (jborean93)\nDescription:  \nWe discuss everything Wind
- ows every 1st and 3rd Tuesday.\n\nIf you have something to discuss (e.g. a
-  PR that needs help)\, add your\nrequest to the meeting agenda and join th
- e IRC channel.\n\nAgenda URL:  https://github.com/ansible/community/issues
- ?q=is:open+label:meeting_agenda+label:windows\nProject URL:  https://githu
- b.com/ansible/community/wiki/Windows
-LOCATION:#ansible-windows or https://matrix.to/#/#windows:ansible.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Windows working group
-DTSTART:20231219T200000Z
-DURATION:PT1H
-DTSTAMP:20231120T125340Z
-UID:windowsworkinggroup-20231219
-RRULE:FREQ=MONTHLY;BYDAY=3TU
-DESCRIPTION:Project:  Windows working group\nChair:  Matt Davis (nitzmahon
- e)\, Jordan Borean (jborean93)\nDescription:  \nWe discuss everything Wind
- ows every 1st and 3rd Tuesday.\n\nIf you have something to discuss (e.g. a
-  PR that needs help)\, add your\nrequest to the meeting agenda and join th
- e IRC channel.\n\nAgenda URL:  https://github.com/ansible/community/issues
- ?q=is:open+label:meeting_agenda+label:windows\nProject URL:  https://githu
- b.com/ansible/community/wiki/Windows
-LOCATION:#ansible-windows or https://matrix.to/#/#windows:ansible.com
 END:VEVENT
 END:VCALENDAR
