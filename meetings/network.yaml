@@ -1,8 +1,8 @@
 project: Network working group
 meeting_id: network
 project_url: https://github.com/ansible/community/wiki/Network
-agenda_url: https://github.com/ansible/community/labels/network
-chair: Kate Case (Qalthos)
+agenda_url: https://forum.ansible.com/t/network-automation-working-group-agenda/2539
+chair: NilashishC (nilashish)
 description: |
 
   Discuss everything network.
