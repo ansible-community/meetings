@@ -3,16 +3,15 @@ VERSION:2.0
 PRODID:-//yaml2ical agendas//EN
 BEGIN:VEVENT
 SUMMARY:Documentation working group
-DTSTART:20231121T160000Z
+DTSTART:20240326T150000Z
 DURATION:PT1H
-DTSTAMP:20231120T125340Z
-UID:documentationworkinggroup-20231121
+DTSTAMP:20240326T145334Z
+UID:documentationworkinggroup-20240326
 RRULE:FREQ=WEEKLY
 DESCRIPTION:Project:  Documentation working group\nChair:  Sandra McCann (
  samccann)\nDescription:  \nDiscuss everything related to Ansible Documenta
  tion.\n\nAgenda URL:  https://forum.ansible.com/t/documentation-working-gr
- oup-agenda/153/7\nProject URL:  https://github.com/ansible/community/wiki/
- Docs
+ oup-agenda/153/7\nProject URL:  https://forum.ansible.com/g/Docs
 LOCATION:#ansible-docs or https://matrix.to/#/#docs:ansible.com
 END:VEVENT
 END:VCALENDAR
