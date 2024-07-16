@@ -5,27 +5,23 @@
 
 A GitHub repository for the shared Ansible community Working group meeting calendar
 
-**This repository replaces the meeting logic in https://github.com/ansible/community/tree/main/meetings**
+**NOTE - Working group calendars are moving to the [Ansible Forum Events Calendar](https://forum.ansible.com/c/events/8). In the forum, you can select which working groups you want to attend and click the `...` button to add to your personal calendar.**
+
+This repository replaces the meeting logic in https://github.com/ansible/community/tree/main/meetings but is being phased out and replaced by the shared Ansible events calendar in the Ansible forum.
 
 
-Ansible Working group meetings are held in [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix) rooms.
+Most Ansible working group meetings are held in [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix) rooms.
+
+See this list of [official working groups](https://forum.ansible.com/g) or the [events calendar](https://forum.ansible.com/c/events/8) to find the Matrix room or other meeting details.
 
 ## Schedule
 
-You can add this full list of meetings to your personal calendar by importing [ansible_community_meetings.ics](https://raw.githubusercontent.com/ansible-community/meetings/main/ansible_community_meetings.ics).
+**NOTE** As we are transitioning away from this calendar, check the [events calendar](https://forum.ansible.com/c/events/8) for additional meetings that have already moved.
+
+You can add the following partial list of meetings to your personal calendar by importing [ansible_community_meetings.ics](https://raw.githubusercontent.com/ansible-community/meetings/main/ansible_community_meetings.ics).
 
 > Some calendars, such as Google Calendar, support importing by URL.
 > This allows the calendar to update automatically when changes are made.
-
-You can find the room links in the list of [official working groups](https://docs.ansible.com/ansible/devel/community/communication.html#working-groups).
-
-
-### Tuesdays
-
-* [16:00 UTC](http://www.thetimezoneconverter.com/?t=16:00&tz=UTC):
-  **[Documentation Working Group](https://github.com/ansible/community/wiki/docs)**
-  ([ical](https://raw.githubusercontent.com/ansible-community/meetings/main/meetings/ical/docs.ics))
-  in `#ansible-docs` [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) | [#docs:ansible.com](https://matrix.to/#/#docs:ansible.com) [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
 
 
 ### Wednesdays
@@ -56,7 +52,7 @@ and the individual [Working group](https://forum.ansible.com/g) for their stated
 
 The Ansible Core team is no longer holding scheduled meetings.
 
-Please feel free to engage the the Core team in `#ansible-devel` on [IRC](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-irc) or [#devel:ansible.im](https://matrix.to/#/#devel:ansible.im) on [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix)
+Please feel free to engage the the Ansible core team in the [forum](https://forum.ansible.com/tags/c/help/6/all/ansible-core) or on [Matrix](https://docs.ansible.com/ansible/devel/community/communication.html#ansible-community-on-matrix).
 
 ## Meeting Minutes
 
