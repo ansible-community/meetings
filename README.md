@@ -5,7 +5,7 @@
 
 
 
-**NOTE - Working group calendars have moved to the [Ansible Forum Events Calendar](https://forum.ansible.com/c/events/8). In the forum, you can select which working groups you want to attend and click the `...` button to add to your personal calendar.**
+** We publish working group calendars in the [Ansible Forum Events Calendar](https://forum.ansible.com/c/events/8). In the forum, you can select which working groups you want to attend and click the `...` button to add to your personal calendar.**
 
 The forum replaces the meeting logic in https://github.com/ansible/community/tree/main/meetings/
 
