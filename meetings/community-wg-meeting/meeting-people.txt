@@ -14,7 +14,6 @@ felixfontein
 gotmax
 geerlingguy
 gundalow
-gwmngilfen
 ikhan_
 jillr
 jtanner
